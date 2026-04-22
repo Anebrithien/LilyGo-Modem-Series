@@ -14,7 +14,7 @@
 | ------------------------ | ---------------- | -------------- | ------------- |
 | [T-SIM7670G-Standard][1] | ESP32-S3-WROOM-1 | 16MB(Quad-SPI) | 2MB(Quad-SPI) |
 
-[1]: https://www.lilygo.cc/products/
+[1]: https://lilygo.cc/products/t-sim-7670g-s3?variant=52420133486773
 
 ### Modem differences
 
