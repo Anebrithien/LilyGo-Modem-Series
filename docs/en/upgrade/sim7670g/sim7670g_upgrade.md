@@ -24,13 +24,14 @@
 
 - [SIM7670G Driver](https://drive.google.com/file/d/1-SlbQ9FUZzov96Xc74SJ375U9v1JVjma/view?usp=sharing)
 
-### `3`Firmware
+### `3`Firmware (Compatible with LilyGo SIM7670G and all modems with different PN numbers.)
 
 <!-- * ~~[SIM7670G B02](https://drive.google.com/file/d/1-63xiw4TbGwHi3rQDzJpPKwp2SDNPXC1/view?usp=sharing) Known HTTP 715 Errors Don't use this version~~  -->
 - [🟡2374B03SIM767XM5A](https://drive.google.com/file/d/1bBrze2eDtrjEuJ_2yiufSo87eIk_mYkE/view?usp=sharing) <!-- 20241008 Update Fixed  HTTP 715 error-->
 - [🟡2374B04SIM767XM5A](https://drive.google.com/file/d/1-akwKQJttLbtLD48ApagusfBvS9ixZ4F/view?usp=sharing)
-- [🟢 Stabilize:2374B05V01SIM767XM5A](https://drive.google.com/file/d/10VvMNzgKhAX25lHSIGHnD3ip7kWjFl0g/view?usp=sharing) <!-- 20241206 Fixed MQTTS error https://github.com/Xinyuan-LilyGO/LilyGO-T-A76XX/issues/183 , HTTPS MQTTS FIXED -->
-- [🟣 Latest: 2388B03SIM767XM5A Not recommended to use it; there are many problems.](https://drive.google.com/file/d/1_Gwj3v_6NCtC-6xQ8dGSrjayTFRJyVgu/view?usp=sharing)
+- [🟢Stabilize:2374B05V01SIM767XM5A](https://drive.google.com/file/d/10VvMNzgKhAX25lHSIGHnD3ip7kWjFl0g/view?usp=sharing) <!-- 20241206 Fixed MQTTS error https://github.com/Xinyuan-LilyGO/LilyGO-T-A76XX/issues/183 , HTTPS MQTTS FIXED -->
+- [🔴2388B03SIM767XM5A Not recommended to use it; there are many problems.](https://drive.google.com/file/d/1_Gwj3v_6NCtC-6xQ8dGSrjayTFRJyVgu/view?usp=sharing)
+- [🟣Latest:2388B04SIM767XM5A_M_SIM7670G-MNGV_V202250121](https://drive.google.com/file/d/1VCdWaWFyk2PfM0WGyceXML_7lgFYbyWe/view?usp=sharing)
 
 > \[!IMPORTANT]
 >
