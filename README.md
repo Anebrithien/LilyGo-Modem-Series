@@ -215,7 +215,9 @@
 
 <!-- - 🔧 **[SimShield Usage Guide](./docs/en/SimshieldUsageGuide/README.md)** -->
 
+## Standard Series Comparison
 
+- 🔧 **[Standard Series Selection Comparison](./docs/standard_series_comparison.md)**
 
 ## Modem firmware Upgrade Guide
 
