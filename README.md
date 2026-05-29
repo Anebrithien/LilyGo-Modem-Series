@@ -188,14 +188,14 @@
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
       <a href="https://lilygo.cc/products/lilygo%C2%AE-t-simhat-can-rs485-relay-5v" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H607-T-SIM-Hat.png" alt="T-SIM7670G-S3-Standard" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimHat Relay Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimHat RelayUsage Guide</div>
       </a>
     </td>
     <!-- T-SimHat Can/RS485 -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
       <a href="https://lilygo.cc/products/lilygo%C2%AE-t-simhat-can-rs485-relay-5v?variant=42200124752053" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H559-T-SIM-Can.png" alt="T-SimHat Can/RS485" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimHat Can/RS485 Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimHat Can/RS485 Usage Guide</div>
       </a>
     </td>
   </tr>
@@ -207,14 +207,21 @@
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
       <a href="./docs/en/esp32s3/sim7600g-s3-standard/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H803-N322.png" alt="T-SIM7600G-S3-Standard-ExpansionKit" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7600G-S3-Standard-ExpansionKit Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7600G-S3-Standard-ExpansionKit Usage Guide</div>
       </a>
+    <!-- DC-Shield -->
+    <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
+      <a href="./docs/en/shield/t-dc-shield/README.MD" style="text-decoration: none; display: block;">
+        <img src="./images/product/png/H812-DC-Shield.png" alt="T-SimDcShield" width="200" style="border: 0;"/>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimDcShield Usage Guide</div>
+      </a>
+    </td>
     </td>
     <!-- T-BAT -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
       <a href="./docs/en/shield/t-bat/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/T-BAT.png" alt="T-SIM7600G-S3-Standard-ExpansionKit" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-BAT Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-BAT Usage Guide</div>
       </a>
     </td>
 </table>
